@@ -32,6 +32,7 @@
             <a href="#" class="block px-6 py-3 hover:bg-blue-600">My Tickets</a>
             <a href="#" class="block px-6 py-3 hover:bg-blue-600">Payments</a>
             <a href="#" class="block px-6 py-3 hover:bg-blue-600">Notifications</a>
+            <a href="#" class="block px-6 py-3 hover:bg-blue-600">NSettings</a>
             <a href="#" class="block px-6 py-3 hover:bg-blue-600">Support</a>
         </nav>
         <form action="{{ route('passenger.logout') }}" method="POST" class="px-6 py-4">
